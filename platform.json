@@ -14,9 +14,7 @@
   },
   "version": "3.9.0",
   "packageRepositories": [
-    "https://dl.bintray.com/platformio/dl-packages/manifest.json",
-    "http://dl.platformio.org/packages/manifest.json",
-    "https://raw.githubusercontent.com/eerimoq/simba/master/make/platformio/manifest.json"
+    "https://github.com/felipemcg/ArduinoCore-samd/blob/master/manifest.json"
   ],
   "frameworks": {
     "arduino": {
